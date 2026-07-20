@@ -1,0 +1,11 @@
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\VMS.TPS.Common.Model.API.dll
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\VMS.TPS.Common.Model.API.xml
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\obj\Debug\CreateVerifPlans.csproj.AssemblyReference.cache
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\obj\Debug\CreateVerifPlans.csproj.CoreCompileInputs.cache
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\obj\Debug\CreateVe.2094D858.Up2Date
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\CreateVerifPlans.dll
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\bin\Debug\CreateVerifPlans.pdb
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\obj\Debug\CreateVerifPlans.dll
+C:\Users\cathe\source\repos\ESAPI\CreateVerifPlans\obj\Debug\CreateVerifPlans.pdb
