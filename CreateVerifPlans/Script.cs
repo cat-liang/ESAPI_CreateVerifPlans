@@ -38,9 +38,8 @@ namespace VMS.TPS
         private TextBox _otherEntryTextBox;
         private const string OtherSentinel = "Other";
 
-        private List<string> _energyModes = new List<string> {"6X", "10X", "15X", "18X",
-                                                              "6FFF", "10FFF",
-                                                              "6E", "9E", "12E", "15E", "16E", "18E", "20E", "22E"};
+        private List<string> _energyModes = new List<string> {"4X", "6X", "10X", "15X", "18X",
+                                                              "6FFF", "10FFF"};
 
         private ListBox _energyModesLB;
         private Button _createPlansButton;
